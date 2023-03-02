@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Khushi-12-33
-- 👀 I’m interested in C, C++, HTML, CSS and JS.
+- 👀 I’m interested in C, C++, HTML, CSS, JS and PHP.
 - 🌱 I’m currently learning at Vishwakarma Institute of Technology.
 - 📫 You can reach me through my LinkedIn.
 
